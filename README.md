@@ -1,3 +1,27 @@
+# Overview
+
+To Do List built with React. The UI was divided into 5 parts, adding an item  displaying the item, styling, removing and animating the item.
+
+
+# Userstory
+
+As a User I can Add items to my To Do List
+As a User I can Delete items from my To Do List
+
+# Technology
+
+## Adding an item
+
+Applying an OnSubmit event handler to the Form element. When the Form is submitted by the user the Add Item method will be called.
+
+Added items will be stored in an array. The array will get bigger as more items are added. Using _inputElement ref.
+
+
+### Displaying Item
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
