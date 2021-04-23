@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/krisarushanov/todolist.git/static/css/main.db70e79f.chunk.css",
+    "main.js": "/krisarushanov/todolist.git/static/js/main.9cd45540.chunk.js",
+    "main.js.map": "/krisarushanov/todolist.git/static/js/main.9cd45540.chunk.js.map",
+    "runtime-main.js": "/krisarushanov/todolist.git/static/js/runtime-main.a61f9a14.js",
+    "runtime-main.js.map": "/krisarushanov/todolist.git/static/js/runtime-main.a61f9a14.js.map",
+    "static/js/2.cdc8f4ec.chunk.js": "/krisarushanov/todolist.git/static/js/2.cdc8f4ec.chunk.js",
+    "static/js/2.cdc8f4ec.chunk.js.map": "/krisarushanov/todolist.git/static/js/2.cdc8f4ec.chunk.js.map",
+    "static/js/3.e90582ac.chunk.js": "/krisarushanov/todolist.git/static/js/3.e90582ac.chunk.js",
+    "static/js/3.e90582ac.chunk.js.map": "/krisarushanov/todolist.git/static/js/3.e90582ac.chunk.js.map",
+    "index.html": "/krisarushanov/todolist.git/index.html",
+    "static/css/main.db70e79f.chunk.css.map": "/krisarushanov/todolist.git/static/css/main.db70e79f.chunk.css.map",
+    "static/js/2.cdc8f4ec.chunk.js.LICENSE.txt": "/krisarushanov/todolist.git/static/js/2.cdc8f4ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a61f9a14.js",
+    "static/js/2.cdc8f4ec.chunk.js",
+    "static/css/main.db70e79f.chunk.css",
+    "static/js/main.9cd45540.chunk.js"
+  ]
+}
