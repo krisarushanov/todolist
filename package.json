@@ -1,7 +1,6 @@
 {
-  "name": "todolist",
+  "name": "todolist", "homepage": "https://github.com/krisarushanov/todolist.git",
   "version": "0.1.0",
-  "homepage": "https://github.com/krisarushanov/todolist.git",
   "engines": {
     "node": "15.6",
     "npm": "7.6.0"
