@@ -1,6 +1,7 @@
 # Overview
 
-To Do List built with React. The UI was divided into 5 parts, adding an item  displaying the item, styling, removing and animating the item.
+To Do List built with React. The UI was divided into 5 parts, adding an item  displaying the item, styling, removing and animating the item. Hover over the added task to
+remove from list.
 
 ### Link: https://krisarushanov.github.io/todolist/
 
